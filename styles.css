@@ -73,3 +73,9 @@ footer {
   text-align: center;
   font-family: "Indie Flower", cursive;
 }
+
+@media (max-width: 40rem) {
+  h1 {
+    font-size: 5rem;
+  }
+}
