@@ -23,3 +23,7 @@ if (randomNumber1 > randomNumber2) {
 } else {
   document.querySelector("h1").innerHTML = "Draw!";
 }
+
+function refreshPage() {
+  window.location.reload();
+}
